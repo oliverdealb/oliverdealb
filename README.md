@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @oliverdealb
 - 👀 I’m interested in devtools, web capabilities, browsers, dev productivity
 - 🌱 I’m currently learning how to code, make something 10x compelling at replay.io
-- 💞️ I’m looking to collaborate on better debugging, Q2, support and devtools for orgs
+- 💞️ I’m looking to collaborate on better debugging, QA, support and devtools for orgs
 - 📫 How to reach me - oliver@replay.io
 
 <!---
